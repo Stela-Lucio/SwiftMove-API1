@@ -46,7 +46,7 @@ Este projeto tem como objetivo mapear e produzir um fluxo de exportações a par
 
  >Tecnologias Específicas/Apoio
   * Canva
-  * Github  ![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)
+  * Github  
   * JIRA Software
   * Pacote Office
   
