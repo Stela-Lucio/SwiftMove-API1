@@ -1,6 +1,10 @@
 # SwiftMove
+*Moving at the speed of the future!  |  Movendo-se na velocidade do futuro!*
 
-Template para os projetos do curso de graduação em Logística, ensinando na utilização do repositório digital "GitHub". 
+Quem somos? 
+Bem-vindo a SWIFT MOVE, onde o futuro da mobilidade se torna uma realidade palpável. Somos uma empresa logística dedicada em fornecer praticidade, inovação e habilidade ágil e sob medida de acordo com as necessidades individuais de cada cliente. Temos um compromisso inabalável com a excelência e nos destacamos no mercado com planejamento preciso e efetivo. Nossa missão é impulsionar o futuro da movimentação de maneira rápida, eficiente e segura. 
+
+Com uma equipe de ponta e tecnologia avançada, a SWIFT MOVE está comprometida em simplificar o processo logístico e garantir um resultado excepcional ao cliente.
 
 
 # Índice
@@ -40,22 +44,27 @@ Este projeto tem como objetivo mapear e produzir um fluxo de exportações a par
 
 ## Tecnologias Utilizadas
 
- ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ >Tecnologias Específicas/Apoio
+  * Canva
+  * Github  ![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)
+  * JIRA Software
+  * Pacote Office
   
- ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ >Tecnologias da Informação
+  * Chat GPT
+  * Google
+  * Youtube
 
 # Sprints
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 11/03/2024 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | 15/04/2024 | em progresso| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  06/05/2024| a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 27/05/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| 17/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
-|Feira de Soluções|27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01 | 15/04/2024 | em progresso| [Ver Relatório](Colocar ainda) | 
+|02|  06/05/2024| a fazer |  -  | 
+|03| 27/05/2024 | a fazer|  -  | 
+|04| 17/06/2024 |a fazer |  -  | 
+|Feira de Soluções|27/06/2024 |a fazer |  -  | 
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
