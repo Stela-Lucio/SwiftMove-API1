@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=9370DB&size=35&center=true&vCenter=true&width=1000&lines=BEM+VINDO+Á+SWIFT+MOVE!;ESTAMOS+FELIZES+EM+TER+VOCÊ+AQUI!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=9932CC&size=35&center=true&vCenter=true&width=1000&lines=BEM+VINDO(A)+À+SWIFT+MOVE!;ESTAMOS+FELIZES+EM+TER+VOCÊ+AQUI!)](https://git.io/typing-svg)
 
 
 # Quem somos?
@@ -9,6 +9,12 @@
 Bem-vindo a SWIFT MOVE, onde o futuro da mobilidade se torna uma realidade palpável. Somos uma empresa logística dedicada em fornecer praticidade, inovação e habilidade ágil e sob medida de acordo com as necessidades individuais de cada cliente. Temos um compromisso inabalável com a excelência e nos destacamos no mercado com planejamento preciso e efetivo. Nossa missão é impulsionar o futuro da movimentação de maneira rápida, eficiente e segura. 
 
 Com uma equipe de ponta e tecnologia avançada, a SWIFT MOVE está comprometida em simplificar o processo logístico e garantir um resultado excepcional ao cliente.
+
+>Logo
+
+>Organograma
+
+>Análise SWOT- API
 
 
 # Índice
@@ -48,16 +54,7 @@ Este projeto tem como objetivo mapear e produzir um fluxo de exportações a par
 
 ## Tecnologias Utilizadas
 
- >Tecnologias Específicas/Apoio
-  * Canva
-  * Github  
-  * JIRA Software
-  * Pacote Office
-  
- >Tecnologias da Informação
-  * Chat GPT
-  * Google
-  * Youtube
+
 
 # Sprints
 
@@ -70,10 +67,6 @@ Sprint | Previsão | Status| Histórico|
 |04| 17/06/2024 |a fazer |  -  | 
 |Feira de Soluções|27/06/2024 |a fazer |  -  | 
 
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
 # Requisitos
 
@@ -141,34 +134,3 @@ Requisitos não funcionais
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
 
-# Competências desenvolvidas
-
-## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
- 
-</details>
-
-## Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
-
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-
-</details>
