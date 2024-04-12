@@ -25,8 +25,6 @@ Com uma equipe de ponta e tecnologia avançada, a SWIFT MOVE está comprometida 
 * [Sprints](#Sprints)
 * [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
-* [Competências desenvolvidas](#competências-desenvolvidas)
-
 
 # Projeto (API) 
 Projeto baseado na metodologia ágil SCRUM (método aliado dos gestores de projetos), procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
@@ -66,20 +64,6 @@ Sprint | Previsão | Status| Histórico|
 |03| 27/05/2024 | a fazer|  -  | 
 |04| 17/06/2024 |a fazer |  -  | 
 |Feira de Soluções|27/06/2024 |a fazer |  -  | 
-
-
-# Requisitos
-
-Requisitos funcionais 
-- Conteúdo da apresentação   
-- Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
-
-  
-Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
-- Metodologias ágil
-- Power BI / Jira / Canvas
   
 # Backlog do produto
   
@@ -95,42 +79,42 @@ Requisitos não funcionais
 
 
 ## Sprint 1. Concepção
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [X] Entendimento do Kick off;
+- [X] Obter informações com o cliente;
+- [X] Pesquisa para melhor entendimento dos dados;
+- [X] Entender como funciona o backlog e executar conforme a necessidade;
+- [X] Entender e executar as funcionalidades do aplicativo Jira;
+- [X] Entender as funcionalidades e estruturar o Github;
+- [X] Primeira filtragem de dados;
+- [X] Análise Swot da API;
+- [X] Desenvolver apresentação da empresa;
+- [X] Estruturar o relatório da sprint 1;
+- [X] Desenvolvimento da logo;
+- [X] Montar apresentação da sprint.
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+- [ ] Pesquisar a fundo sobre o aeroporto SJK;
+- [ ] Iniciar a estrutura do Power BI
+- [ ] Pesquisar e analisar a capacidade de carga;
+- [ ] Filtragem e identificação de produtos promissores;
+- [ ] Classificar produtos por valor agreagado;
+- [ ] Explorar necessidades do cliente;
+- [ ] Atualização dos softwares;
+- [ ] Estruturar o relatório da sprint 2.
       
 ## Sprint 3 . Implementação
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-      
+- [ ] Capturar e análisar dados;
+- [ ] Aprimoramento do Dashboard;
+- [ ] Identificar possíveis oportunidades juntamente ao cliente;
+- [ ] Teste das atualizações;
+- [ ] Atualização dos softwares;
+- [ ] Estrutura do relatório sprint 3.
+     
 ## Sprint 4. Operacionalização
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Finalização e entrega do dashboard;
+- [ ] Revisar dados e softwares;
+- [ ] Aperffeiçoar dados gerais;
+- [ ] Iniciar preparativos para a feira de soluções;
+- [ ] Preparação para a apresentação final;
+- [ ] Estrutural relatório final.
 
