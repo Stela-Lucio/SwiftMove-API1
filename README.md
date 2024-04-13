@@ -11,10 +11,24 @@ Bem-vindo(a)  a SWIFT MOVE, onde o futuro da mobilidade se torna uma realidade p
 Com uma equipe de ponta e tecnologia avançada, a SWIFT MOVE está comprometida em simplificar o processo logístico e garantir um resultado excepcional ao cliente.
 
 >Logo
+<div id="top"></div>
+<p align="right side">
+      <img src="Arquivos_Sprint1/SwiftMove.png" width="20%" height="20%">
+<p align="center">
+
 
 >Organograma
+<div id="top"></div>
+<p align="right side">
+      <img src="Arquivos_Sprint1/Organograma.jpeg" width="50%" height="50%">
+<p align="center">
+
 
 >Análise SWOT- API
+<div id="top"></div>
+<p align="right side">
+      <img src="Arquivos_Sprint1/Análise_Swot.png" width="50%" height="50%">
+<p align="center">
 
 
 # Índice
@@ -58,24 +72,37 @@ Este projeto tem como objetivo mapear e produzir um fluxo de exportações a par
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 11/03/2024 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | 15/04/2024 | em progresso| [Ver Relatório](Colocar ainda) | 
+|Kick Off | 11/03/2024 | concluido| [Ver Relatório](Arquivos_Sprint1/Relatório-Kick-off.pdf) | 
+|01 | 15/04/2024 | finalizando| [Ver Relatório](Arquivos_Sprint1/relatório_api_sprint1.pdf) | 
 |02|  06/05/2024| a fazer |  -  | 
 |03| 27/05/2024 | a fazer|  -  | 
 |04| 17/06/2024 |a fazer |  -  | 
 |Feira de Soluções|27/06/2024 |a fazer |  -  | 
   
 # Backlog do produto
-  
-<div align="center">
-    
-![product backlog](https://user-images.githubusercontent.com/69374340/172057734-320d9e43-19e9-409a-8f2d-7d159a1aaa9a.png)
-![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
-</div>
+
+ > Backlog do produto
+
+<div id="top"></div>
+<p align="right side">
+      <img src="Arquivos_Sprint1/Backlog_produto.png" width="50%" height="50%">
+<p align="center">
+
+  > Backlog das Sprints
+
+<div id="top"></div>
+<p align="right side">
+      <img src="Arquivos_Sprint1/Backlog_sprint1.png" width="50%" height="50%">
+<p align="center">
 
 
 # Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
+
+> Burndown 1
+<div id="top"></div>
+<p align="center">
+      <img src="Arquivos_Sprint1/Burndown1.png" width="200%" height="200%">
+<p align="center">
 
 
 ## Sprint 1. Concepção
