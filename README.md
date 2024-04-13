@@ -13,21 +13,21 @@ Com uma equipe de ponta e tecnologia avançada, a SWIFT MOVE está comprometida 
 >Logo
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos_Sprint1/SwiftMove.png" width="20%" height="20%">
+      <img src="Arquivos_Sprint1/SwiftMove.png" width="40%" height="40%">
 <p align="center">
 
 
 >Organograma
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos_Sprint1/Organograma.jpeg" width="50%" height="50%">
+      <img src="Arquivos_Sprint1/Organograma.jpeg" width="70%" height="70%">
 <p align="center">
 
 
 >Análise SWOT- API
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos_Sprint1/Análise_Swot.png" width="50%" height="50%">
+      <img src="Arquivos_Sprint1/Análise_Swot.png" width="70%" height="70%">
 <p align="center">
 
 
@@ -85,14 +85,14 @@ Sprint | Previsão | Status| Histórico|
 
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos_Sprint1/Backlog_produto.png" width="50%" height="50%">
+      <img src="Arquivos_Sprint1/Backlog_produto.png" width="90%" height="90%">
 <p align="center">
 
   > Backlog das Sprints
 
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos_Sprint1/Backlog_sprint1.png" width="50%" height="50%">
+      <img src="Arquivos_Sprint1/Backlog_sprint1.png" width="90%" height="90%">
 <p align="center">
 
 
@@ -101,7 +101,7 @@ Sprint | Previsão | Status| Histórico|
 > Burndown 1
 <div id="top"></div>
 <p align="center">
-      <img src="Arquivos_Sprint1/Burndown1.png" width="200%" height="200%">
+      <img src="Arquivos_Sprint1/Burndown1.png" width="230%" height="230%">
 <p align="center">
 
 
