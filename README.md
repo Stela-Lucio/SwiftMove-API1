@@ -13,7 +13,7 @@ Com uma equipe de ponta e tecnologia avançada, a SWIFT MOVE está comprometida 
 >Logo
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos_Sprint1/SwiftMove.png" width="40%" height="40%">
+      <img src="Arquivos_Sprint1/SwiftMove.png" width="30%" height="30%">
 <p align="center">
 
 
@@ -85,14 +85,14 @@ Sprint | Previsão | Status| Histórico|
 
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos_Sprint1/Backlog_produto.png" width="90%" height="90%">
+      <img src="Arquivos_Sprint1/Backlog_produto.png" width="80%" height="80%">
 <p align="center">
 
   > Backlog das Sprints
 
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos_Sprint1/Backlog_sprint1.png" width="90%" height="90%">
+      <img src="Arquivos_Sprint1/Backlog_sprint1.png" width="80%" height="80%">
 <p align="center">
 
 
