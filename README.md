@@ -66,20 +66,23 @@ Este projeto tem como objetivo mapear e produzir um fluxo de exportações a par
 
 ## Tecnologias Utilizadas
 
-
+<div id="top"></div>
+<p align="right side">
+      <img src="Arquivos_Sprint1/Tecnologias_utilizadas..png" width="50%" height="50%">
+<p align="center">
 
 # Sprints
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 11/03/2024 | concluido| [Ver Relatório](Arquivos_Sprint1/Relatório-Kick-off.pdf) | 
+|Kick Off | 11/03/2024 | concluido| [Ver Relatório](Arquivos_Sprint1/Relatório_do_Kick_off.pdf) | 
 |01 | 15/04/2024 | finalizando| [Ver Relatório](Arquivos_Sprint1/relatório_api_sprint1.pdf) | 
 |02|  06/05/2024| a fazer |  -  | 
 |03| 27/05/2024 | a fazer|  -  | 
 |04| 17/06/2024 |a fazer |  -  | 
 |Feira de Soluções|27/06/2024 |a fazer |  -  | 
   
-# Backlog do produto
+# Backlog
 
  > Backlog do produto
 
@@ -95,6 +98,34 @@ Sprint | Previsão | Status| Histórico|
       <img src="Arquivos_Sprint1/Backlog_sprint1.png" width="80%" height="80%">
 <p align="center">
 
+## Sprint 1. Concepção
+- [X] Entender como funciona o backlog e executar conforme a necessidade;
+- [X] Entender e executar as funcionalidades do aplicativo Jira;
+- [X] Entender as funcionalidades e estruturar o Github;
+- [X] Estruturar o relatório da sprint 1;
+- [X] Montar apresentação da sprint.
+
+## Sprint 2. Desenvolvimento do Projeto
+- [ ] Iniciar a estrutura do Power BI
+- [ ] Pesquisar e analisar a capacidade de carga;
+- [ ] Filtragem e identificação de produtos promissores;
+- [ ] Classificar produtos por valor agreagado;
+- [ ] Atualização dos softwares;
+- [ ] Estruturar o relatório da sprint 2.
+      
+## Sprint 3 . Implementação
+- [ ] Capturar e análisar dados;
+- [ ] Aprimoramento do Dashboard;
+- [ ] Teste das atualizações;
+- [ ] Atualização dos softwares;
+- [ ] Estrutura do relatório sprint 3.
+     
+## Sprint 4. Operacionalização
+- [ ] Finalização e entrega do dashboard;
+- [ ] Revisar dados e softwares;
+- [ ] Iniciar preparativos para a feira de soluções;
+- [ ] Preparação para a apresentação final;
+- [ ] Estrutural relatório final.
 
 # Burndown
 
@@ -103,45 +134,4 @@ Sprint | Previsão | Status| Histórico|
 <p align="center">
       <img src="Arquivos_Sprint1/Burndown1.png" width="230%" height="230%">
 <p align="center">
-
-
-## Sprint 1. Concepção
-- [X] Entendimento do Kick off;
-- [X] Obter informações com o cliente;
-- [X] Pesquisa para melhor entendimento dos dados;
-- [X] Entender como funciona o backlog e executar conforme a necessidade;
-- [X] Entender e executar as funcionalidades do aplicativo Jira;
-- [X] Entender as funcionalidades e estruturar o Github;
-- [X] Primeira filtragem de dados;
-- [X] Análise Swot da API;
-- [X] Desenvolver apresentação da empresa;
-- [X] Estruturar o relatório da sprint 1;
-- [X] Desenvolvimento da logo;
-- [X] Montar apresentação da sprint.
-
-## Sprint 2. Desenvolvimento do Projeto
-- [ ] Pesquisar a fundo sobre o aeroporto SJK;
-- [ ] Iniciar a estrutura do Power BI
-- [ ] Pesquisar e analisar a capacidade de carga;
-- [ ] Filtragem e identificação de produtos promissores;
-- [ ] Classificar produtos por valor agreagado;
-- [ ] Explorar necessidades do cliente;
-- [ ] Atualização dos softwares;
-- [ ] Estruturar o relatório da sprint 2.
-      
-## Sprint 3 . Implementação
-- [ ] Capturar e análisar dados;
-- [ ] Aprimoramento do Dashboard;
-- [ ] Identificar possíveis oportunidades juntamente ao cliente;
-- [ ] Teste das atualizações;
-- [ ] Atualização dos softwares;
-- [ ] Estrutura do relatório sprint 3.
-     
-## Sprint 4. Operacionalização
-- [ ] Finalização e entrega do dashboard;
-- [ ] Revisar dados e softwares;
-- [ ] Aperffeiçoar dados gerais;
-- [ ] Iniciar preparativos para a feira de soluções;
-- [ ] Preparação para a apresentação final;
-- [ ] Estrutural relatório final.
 
