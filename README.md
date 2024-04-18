@@ -125,7 +125,7 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 - [ ] Revisar dados e softwares;
 - [ ] Iniciar preparativos para a feira de soluções;
 - [ ] Preparação para a apresentação final;
-- [ ] Estrutural relatório final.
+- [ ] Estruturar relatório final.
 
 # Burndown
 
