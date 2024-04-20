@@ -75,12 +75,12 @@ Este projeto tem como objetivo mapear e produzir um fluxo de exportações a par
 
 Sprint | Previsão | Status| Histórico| Apresentação|
 |------|--------|------|--------|---------|
-|Kick Off | 11/03/2024 | concluido| [Ver Relatório](Arquivos_Sprint1/Relatório_do_Kick_off.pdf) | - |
-|01 | 15/04/2024 | finalizando| [Ver Relatório](Arquivos_Sprint1/relatório_api_sprint1.pdf) | [Ver Apresentação](https://www.canva.com/design/DAGChZ96uKU/psSNBx8S-B0kFeh562fmtg/edit?utm_content=DAGChZ96uKU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-|02|  06/05/2024| a fazer |  -  | - |
-|03| 27/05/2024 | a fazer|  -  | - |
-|04| 17/06/2024 |a fazer |  -  | - |
-|Feira de Soluções|27/06/2024 |a fazer |  -  | - |
+|Kick Off | 11/03/2024 | Concluido| [Ver Relatório](Arquivos_Sprint1/Relatório_do_Kick_off.pdf) | - |
+|01 | 15/04/2024 | Concluído| [Ver Relatório](Arquivos_Sprint1/relatório_api_sprint1.pdf) | [Ver Apresentação](https://www.canva.com/design/DAGChZ96uKU/psSNBx8S-B0kFeh562fmtg/edit?utm_content=DAGChZ96uKU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+|02|  06/05/2024|Em progresso |  -  | - |
+|03| 27/05/2024 | A fazer|  -  | - |
+|04| 17/06/2024 | A fazer |  -  | - |
+|Feira de Soluções|27/06/2024 | A fazer |  -  | - |
   
 # Backlog
 
