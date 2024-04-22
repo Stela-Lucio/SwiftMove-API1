@@ -107,9 +107,9 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Iniciar a estrutura do Power BI
-- [ ] Pesquisar e analisar a capacidade de carga;
+- [ ] Analisar cargas já movimentadas por aeroportos próximos;
 - [ ] Filtragem e identificação de produtos promissores;
-- [ ] Classificar produtos por valor agreagado;
+- [ ] Qualidade de dados;
 - [ ] Atualização dos softwares;
 - [ ] Estruturar o relatório da sprint 2.
       
