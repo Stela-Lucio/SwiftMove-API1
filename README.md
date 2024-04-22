@@ -91,13 +91,6 @@ Sprint | Previsão | Status| Histórico| Apresentação|
       <img src="Arquivos_Sprint1/Backlog_produto.png" width="80%" height="80%">
 <p align="center">
 
-  > Backlog das Sprints
-
-<div id="top"></div>
-<p align="right side">
-      <img src="Arquivos_Sprint1/Backlog_sprint1.png" width="80%" height="80%">
-<p align="center">
-
 ## Sprint 1. Concepção
 - [X] Entender como funciona o backlog e executar conforme a necessidade;
 - [X] Entender e executar as funcionalidades do aplicativo Jira;
