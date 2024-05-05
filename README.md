@@ -77,7 +77,7 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 |------|--------|------|--------|---------|
 |Kick Off | 11/03/2024 | Concluido| [Ver Relatório](Arquivos_Sprint1/Relatório_do_Kick_off.pdf) | - |
 |01 | 15/04/2024 | Concluído| [Ver Relatório](Arquivos_Sprint1/relatório_api_sprint1.pdf) | [Ver Apresentação](https://www.canva.com/design/DAGChZ96uKU/psSNBx8S-B0kFeh562fmtg/edit?utm_content=DAGChZ96uKU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-|02|  06/05/2024|Em progresso |  -  | - |
+|02|  06/05/2024|Finalizando | [Ver Relatório](Arquivos_Sprint1/Relatório_do_Kick_off.pdf) | [Ver Apresentação](https://www.canva.com/design/DAGChZ96uKU/psSNBx8S-B0kFeh562fmtg/edit?utm_content=DAGChZ96uKU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) / [Ver Dashboard](https://www.canva.com/design/DAGChZ96uKU/psSNBx8S-B0kFeh562fmtg/edit?utm_content=DAGChZ96uKU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 |03| 27/05/2024 | A fazer|  -  | - |
 |04| 17/06/2024 | A fazer |  -  | - |
 |Feira de Soluções|27/06/2024 | A fazer |  -  | - |
@@ -99,12 +99,12 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 - [X] Montar apresentação da sprint.
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Iniciar a estrutura do Power BI
-- [ ] Analisar cargas já movimentadas por aeroportos próximos;
-- [ ] Filtragem e identificação de produtos promissores;
-- [ ] Qualidade de dados;
-- [ ] Atualização dos softwares;
-- [ ] Estruturar o relatório da sprint 2.
+- [X] Iniciar a estrutura do Power BI
+- [X] Analisar cargas já movimentadas por aeroportos próximos;
+- [X] Filtragem e identificação de produtos promissores;
+- [X] Qualidade de dados;
+- [X] Atualização dos softwares;
+- [X] Estruturar o relatório da sprint 2.
       
 ## Sprint 3 . Implementação
 - [ ] Capturar e análisar dados;
@@ -127,4 +127,13 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 <p align="center">
       <img src="Arquivos_Sprint1/Burndown1.png" width="230%" height="230%">
 <p align="center">
+
+
+
+> Burndown 2
+<div id="top"></div>
+<p align="center">
+      <img src="Arquivos_Sprint1/Burndown1.png" width="230%" height="230%">
+<p align="center">
+
 
