@@ -133,7 +133,7 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 > Burndown 2
 <div id="top"></div>
 <p align="center">
-      <img src="Arquivos_Sprint1/Burndown1.png" width="230%" height="230%">
+      <img src="Arquivos_Sprint2/Burndown_Sprint2.jpeg" width="230%" height="230%">
 <p align="center">
 
 
