@@ -77,7 +77,7 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 |------|--------|------|--------|---------|
 |Kick Off | 11/03/2024 | Concluido| [Ver Relatório](Arquivos_Sprint1/Relatório_do_Kick_off.pdf) | - |
 |01 | 15/04/2024 | Concluído| [Ver Relatório](Arquivos_Sprint1/relatório_api_sprint1.pdf) | [Ver Apresentação](https://www.canva.com/design/DAGChZ96uKU/psSNBx8S-B0kFeh562fmtg/edit?utm_content=DAGChZ96uKU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-|02|  06/05/2024|Finalizando | [Ver Relatório](Arquivos_Sprint1/Relatório_do_Kick_off.pdf) | [Ver Apresentação](https://www.canva.com/design/DAGEYmq5R4E/5R_62jQsK2o5MHxIqUEOQA/edit?utm_content=DAGEYmq5R4E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) / [Ver Dashboard](https://app.powerbi.com/groups/me/reports/ce91438d-ce2f-4e69-8b2b-ae53acae5ae3/ReportSection?experience=power-bi) |
+|02|  06/05/2024|Finalizando | [Ver Relatório](Arquivos_Sprint2/relatório_sprint2.pdf) | [Ver Apresentação](https://www.canva.com/design/DAGEYmq5R4E/5R_62jQsK2o5MHxIqUEOQA/edit?utm_content=DAGEYmq5R4E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) / [Ver Dashboard](https://app.powerbi.com/groups/me/reports/ce91438d-ce2f-4e69-8b2b-ae53acae5ae3/ReportSection?experience=power-bi) |
 |03| 27/05/2024 | A fazer|  -  | - |
 |04| 17/06/2024 | A fazer |  -  | - |
 |Feira de Soluções|27/06/2024 | A fazer |  -  | - |
