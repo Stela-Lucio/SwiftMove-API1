@@ -107,11 +107,11 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 - [X] Estruturar o relatório da sprint 2.
       
 ## Sprint 3 . Implementação
-- [ ] Capturar e análisar dados;
+- [X] Capturar e análisar dados;
 - [ ] Aprimoramento do Dashboard;
-- [ ] Teste das atualizações;
-- [ ] Atualização dos softwares;
-- [ ] Estrutura do relatório sprint 3.
+- [X] Teste das atualizações;
+- [X] Atualização dos softwares;
+- [X] Estrutura do relatório sprint 3.
      
 ## Sprint 4. Operacionalização
 - [ ] Finalização e entrega do dashboard;
