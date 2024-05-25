@@ -78,7 +78,7 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 |Kick Off | 11/03/2024 | Concluido| [Ver Relatório](Arquivos_Sprint1/Relatório_do_Kick_off.pdf) | - |
 |01 | 15/04/2024 | Concluído| [Ver Relatório](Arquivos_Sprint1/relatório_api_sprint1.pdf) | [Ver Apresentação](https://www.canva.com/design/DAGChZ96uKU/psSNBx8S-B0kFeh562fmtg/edit?utm_content=DAGChZ96uKU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 |02|  06/05/2024|Concluído | [Ver Relatório](Arquivos_Sprint2/relatório_sprint2.pdf) | [Ver Apresentação](https://www.canva.com/design/DAGEYmq5R4E/5R_62jQsK2o5MHxIqUEOQA/edit?utm_content=DAGEYmq5R4E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) / [Ver Dashboard](Arquivos_Sprint2/Dashboard_Sprint2.pdf) |
-|03| 27/05/2024 | Finalizando|  -  | - |
+|03| 27/05/2024 | Finalizando| [Ver Relatório](Arquivos_Sprint3/Relatório_Sprint3.pdf)  |[Ver Apresentação](-) / [Ver Dashboard](-) |
 |04| 17/06/2024 | A fazer |  -  | - |
 |Feira de Soluções|27/06/2024 | A fazer |  -  | - |
   
@@ -108,7 +108,7 @@ Sprint | Previsão | Status| Histórico| Apresentação|
       
 ## Sprint 3 . Implementação
 - [X] Capturar e análisar dados;
-- [ ] Aprimoramento do Dashboard;
+- [X] Aprimoramento do Dashboard;
 - [X] Teste das atualizações;
 - [X] Atualização dos softwares;
 - [X] Estrutura do relatório sprint 3.
@@ -134,6 +134,12 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 <div id="top"></div>
 <p align="center">
       <img src="Arquivos_Sprint2/Burndown_Sprint2.jpeg" width="230%" height="230%">
+<p align="center">
+
+> Burndown 3
+<div id="top"></div>
+<p align="center">
+      <img src="Arquivos_Sprint3/Burndown_Sprint3.jpeg" width="230%" height="230%">
 <p align="center">
 
 
