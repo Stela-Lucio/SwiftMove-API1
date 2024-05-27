@@ -78,7 +78,7 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 |Kick Off | 11/03/2024 | Concluido| [Ver Relatório](Arquivos_Sprint1/Relatório_do_Kick_off.pdf) | - |
 |01 | 15/04/2024 | Concluído| [Ver Relatório](Arquivos_Sprint1/relatório_api_sprint1.pdf) | [Ver Apresentação](Arquivos_Sprint1/Sprint1.pdf)
 |02|  06/05/2024|Concluído | [Ver Relatório](Arquivos_Sprint2/relatório_sprint2.pdf) | [Ver Apresentação](Arquivos_Sprint2/Sprint2.pdf) / [Ver Dashboard](Arquivos_Sprint2/Dashboard_Sprint2.pdf) |
-|03| 27/05/2024 | Finalizando| [Ver Relatório](Arquivos_Sprint3/Relatório_Sprint3.pdf)  |[Ver Apresentação](https://www.canva.com/design/DAGGRTGBgMI/a4h0ZtcS5y_eU373MuZ1Vg/edit?utm_content=DAGGRTGBgMI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) / [Ver Dashboard](Arquivos_Sprint3/Dash_sprint3.pdf) |
+|03| 27/05/2024 | Finalizando| [Ver Relatório](Arquivos_Sprint3/Relatório_Sprint3.pdf)  |[Ver Apresentação](Arquivos_Sprint3/Sprint3.pdf) / [Ver Dashboard](Arquivos_Sprint3/Dash_sprint3.pdf) |
 |04| 17/06/2024 | A fazer |  -  | - |
 |Feira de Soluções|27/06/2024 | A fazer |  -  | - |
   
