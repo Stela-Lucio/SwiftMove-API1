@@ -78,8 +78,8 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 |Kick Off | 11/03/2024 | Concluido| [Ver Relatório](Arquivos_Sprint1/Relatório_do_Kick_off.pdf) | - |
 |01 | 15/04/2024 | Concluído| [Ver Relatório](Arquivos_Sprint1/relatório_api_sprint1.pdf) | [Ver Apresentação](Arquivos_Sprint1/Sprint1.pdf)
 |02|  06/05/2024|Concluído | [Ver Relatório](Arquivos_Sprint2/relatório_sprint2.pdf) | [Ver Apresentação](Arquivos_Sprint2/Sprint2.pdf) / [Ver Dashboard](Arquivos_Sprint2/Dashboard_Sprint2.pdf) |
-|03| 27/05/2024 | Finalizando| [Ver Relatório](Arquivos_Sprint3/Relatório_Sprint3.pdf)  |[Ver Apresentação](Arquivos_Sprint3/Sprint3.pdf) / [Ver Dashboard](Arquivos_Sprint3/Dash_sprint3.pdf) |
-|04| 17/06/2024 | A fazer |  -  | - |
+|03| 27/05/2024 | Concluído| [Ver Relatório](Arquivos_Sprint3/Relatório_Sprint3.pdf)  |[Ver Apresentação](Arquivos_Sprint3/Sprint3.pdf) / [Ver Dashboard](Arquivos_Sprint3/Dash_sprint3.pdf) |
+|04| 17/06/2024 | Finalizando |  [Ver Relatório](Arquivos_Sprint4/Relatório_Sprint4.pdf) | - |
 |Feira de Soluções|27/06/2024 | A fazer |  -  | - |
   
 # Backlog
@@ -114,11 +114,11 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 - [X] Estrutura do relatório sprint 3.
      
 ## Sprint 4. Operacionalização
-- [ ] Finalização e entrega do dashboard;
-- [ ] Revisar dados e softwares;
-- [ ] Iniciar preparativos para a feira de soluções;
-- [ ] Preparação para a apresentação final;
-- [ ] Estruturar relatório final.
+- [X] Finalização e entrega do dashboard;
+- [X] Revisar dados e softwares;
+- [X] Iniciar preparativos para a feira de soluções;
+- [X] Preparação para a apresentação final;
+- [X] Estruturar relatório final.
 
 # Burndown
 
@@ -138,6 +138,12 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 <div id="top"></div>
 <p align="center">
       <img src="Arquivos_Sprint3/Burndown_Sprint3.jpeg" width="230%" height="230%">
+<p align="center">
+
+> Burndown 4
+<div id="top"></div>
+<p align="center">
+      <img src="Arquivos_Sprint4/Burndown_Sprint4.jpeg" width="230%" height="230%">
 <p align="center">
 
 
