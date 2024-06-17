@@ -116,7 +116,7 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 ## Sprint 4. Operacionalização
 - [X] Finalização e entrega do dashboard;
 - [X] Revisar dados e softwares;
-- [X] Iniciar preparativos para a feira de soluções;
+- [X] Detalhamento por modais;
 - [X] Preparação para a apresentação final;
 - [X] Estruturar relatório final.
 
