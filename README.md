@@ -79,7 +79,7 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 |01 | 15/04/2024 | Concluído| [Ver Relatório](Arquivos_Sprint1/relatório_api_sprint1.pdf) | [Ver Apresentação](Arquivos_Sprint1/Sprint1.pdf)
 |02|  06/05/2024|Concluído | [Ver Relatório](Arquivos_Sprint2/relatório_sprint2.pdf) | [Ver Apresentação](Arquivos_Sprint2/Sprint2.pdf) / [Ver Dashboard](Arquivos_Sprint2/Dashboard_Sprint2.pdf) |
 |03| 27/05/2024 | Concluído| [Ver Relatório](Arquivos_Sprint3/Relatório_Sprint3.pdf)  |[Ver Apresentação](Arquivos_Sprint3/Sprint3.pdf) / [Ver Dashboard](Arquivos_Sprint3/Dash_sprint3.pdf) |
-|04| 17/06/2024 | Finalizando |  [Ver Relatório](Arquivos_Sprint4/Relatório_Sprint4.pdf) | [Ver Apresentação](Arquivos_Sprint4/Sprint4.pdf) / [Ver Dashboard](Arquivos_Sprint4/Dashboard_Sprint4_.pdf)  |
+|04| 17/06/2024 | Concluído |  [Ver Relatório](Arquivos_Sprint4/Relatório_Sprint4.pdf) | [Ver Apresentação](Arquivos_Sprint4/Sprint4.pdf) / [Ver Dashboard](Arquivos_Sprint4/Dashboard_Sprint4_.pdf)  |
 |Feira de Soluções|27/06/2024 | A fazer |  -  | - |
   
 # Backlog
