@@ -80,7 +80,7 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 |02|  06/05/2024|Concluído | [Ver Relatório](Arquivos_Sprint2/relatório_sprint2.pdf) | [Ver Apresentação](Arquivos_Sprint2/Sprint2.pdf) / [Ver Dashboard](Arquivos_Sprint2/Dashboard_Sprint2.pdf) |
 |03| 27/05/2024 | Concluído| [Ver Relatório](Arquivos_Sprint3/Relatório_Sprint3.pdf)  |[Ver Apresentação](Arquivos_Sprint3/Sprint3.pdf) / [Ver Dashboard](Arquivos_Sprint3/Dash_sprint3.pdf) |
 |04| 17/06/2024 | Concluído |  [Ver Relatório](Arquivos_Sprint4/Relatório-API-sprint4.pdf) | [Ver Apresentação](Arquivos_Sprint4/Sprint4.pdf) / [Ver Dashboard](Arquivos_Sprint4/Dashboard_Sprint4_.pdf)  |
-|Feira de Soluções|27/06/2024 | Concluído |  -  | [Ver Apresentação](Feira_de_soluções/Feira_de_soluções.pdf) / [Ver MVP](https://youtu.be/N641WAjU3T4) |
+|Feira de Soluções|27/06/2024 | Concluído |  -  | [Ver Apresentação](Feira_de_soluções/Swift_Move.pdf) / [Ver Dashboard Finalizado](https://youtu.be/N641WAjU3T4) |
   
 # Backlog
 
